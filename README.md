@@ -6,7 +6,7 @@
 
 ### 🎓 Software Engineering 
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Software+Developer;Software+Engineering+%26+Information+Systems;Finance+Technician;Founder+of+Rising;Building+real+solutions;Exploring+Cybersecurity" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Software+Developer;Software+Engineering+%26+;Finance+Technician;Founder+of+Rising;Building+real+solutions;Exploring+Cybersecurity" />
 
 <br>
 
