@@ -24,7 +24,7 @@
 ## 🧠 About Me
 
 💻 **Software Developer**
-🎓 **Software Engineering & Information Systems**
+🎓 **Software Engineering **
 💰 **Finance Technician**
 🚀 **Founder of Rising**
 🌐 **Web Development**
