@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=ELISSON&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-# ⚡ `Software Engineering`
+# 😈 `Software Engineering`
 
 ### 🎓 Software Engineering 
 
